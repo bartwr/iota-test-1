@@ -1,0 +1,15 @@
+{
+  "name": "iota-test-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "dependencies": {
+    "iota.lib.js": "^0.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bartwr",
+  "license": "ISC"
+}
